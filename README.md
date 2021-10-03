@@ -2,7 +2,6 @@
 ![git](https://user-images.githubusercontent.com/24796215/135742251-595e4ffe-0c41-4399-8b14-d1083168e26a.gif)
 
 🔭 I’m currently working on automating the boring stuff
-
 🌱 I’m currently learning Web Development.
 
 <!--
